@@ -1,0 +1,1 @@
+git+https://github.com/jhw6909014-ux/Auto-Core.git
