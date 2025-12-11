@@ -8,7 +8,7 @@ from email.mime.multipart import MIMEMultipart
 # [CONFIG]
 RSS_KEYWORD = "food recipes OR snacks"
 BLOGGER_EMAIL = "jhw6909012.Auto-Food2@blogger.com"
-AFFILIATE_MAP = {"default":"https://s.shopee.tw/1LYZmNzMAi","snacks":"https://s.shopee.tw/6ptWKVvGmC","chips":"https://s.shopee.tw/6ptWKVvGmC","candy":"https://s.shopee.tw/6ptWKVvGmC","steak":"https://s.shopee.tw/2VkXAZSxfF","seafood":"https://s.shopee.tw/2VkXAZSxfF","frozen food":"https://s.shopee.tw/2VkXAZSxfF","coffee":"https://s.shopee.tw/8zy0uXGjiM","tea":"https://s.shopee.tw/8zy0uXGjiM","juice":"https://s.shopee.tw/8zy0uXGjiM","milk":"https://s.shopee.tw/8zy0uXGjiM","vitamin":"https://s.shopee.tw/1qUqNNZ1Qx","fish oil":"https://s.shopee.tw/1qUqNNZ1Qx","probiotic":"https://s.shopee.tw/1qUqNNZ1Qx"}
+AFFILIATE_MAP = {"default":"https://s.shopee.tw/8AOwpGFAgI","snacks":"https://s.shopee.tw/3B0Gs5covD","chips":"https://s.shopee.tw/3B0Gs5covD","candy":"https://s.shopee.tw/3B0Gs5covD","steak":"https://s.shopee.tw/6ptZEqK7uz","seafood":"https://s.shopee.tw/6ptZEqK7uz","frozen food":"https://s.shopee.tw/6ptZEqK7uz","coffee":"https://s.shopee.tw/2B7jgHk9OG","tea":"https://s.shopee.tw/2B7jgHk9OG","juice":"https://s.shopee.tw/2B7jgHk9OG","milk":"https://s.shopee.tw/2B7jgHk9OG","vitamin":"https://s.shopee.tw/8fLDQFGfd8","fish oil":"https://s.shopee.tw/8fLDQFGfd8","probiotic":"https://s.shopee.tw/8fLDQFGfd8"}
 HISTORY_FILE = "history.txt"
 STYLES = ["米其林評審","團購達人"]
 
